@@ -1,0 +1,1 @@
+Git clone path > exact copy from remote repo to local system
